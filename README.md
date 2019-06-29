@@ -1,0 +1,2 @@
+# DocumentsCoreDataRelationships
+IT4425
